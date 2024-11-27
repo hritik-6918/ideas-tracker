@@ -1,3 +1,5 @@
+![idea-tracker](https://github.com/user-attachments/assets/af2c4b3f-e53c-43e6-a5df-cb9326bdc3f1)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
